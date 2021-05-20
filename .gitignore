@@ -1,0 +1,8 @@
+# output files
+*.o
+*.elf
+*.hex
+
+# helper files
+.vscode
+MakeFile
